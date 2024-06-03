@@ -9,3 +9,5 @@ print(type(x)) # outputs: <class 'float'>
 
 x = True
 print(type(x)) # outputs: <class 'bool'>
+
+print("the value of x is:",x ) # outputs: <class 'bool'>
